@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="28" viewBox="0 0 172 28" role="img" aria-label="Support the project">
+  <rect width="172" height="28" rx="7" fill="#b0a9ff"/>
+  <path d="M29 36l-9-9c-6-7 3-15 9-8 6-7 15 1 9 8z" transform="translate(0.5 1.8) scale(.52)" fill="none" stroke="#17191b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="31" y="18.5" fill="#17191b" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Support the project</text>
+</svg>

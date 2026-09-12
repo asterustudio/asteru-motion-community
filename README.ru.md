@@ -2,7 +2,9 @@
 
 <p align="center"><strong>Твоё приложение — в движении.</strong><br>Помогу красиво показать то, что ты сделал.</p>
 
-<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Записаться на бету</strong></a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Посмотреть пример</a> · <a href="README.md">English</a></p>
+<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Записаться на бету</strong></a> &nbsp; <a href="SUPPORT.md"><img src="assets/support-compact.ru.svg" alt="Поддержать проект" width="172" height="28" align="middle"></a></p>
+
+<p align="center"><a href="#давай-пообщаемся-">Обсуждения</a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Посмотреть пример</a> · <a href="README.md">English</a></p>
 
 ## Привет, я Данияр 👋
 
@@ -19,6 +21,19 @@
 Уже можно [записаться в список ожидания](https://asteru-motion.asterustudio.workers.dev/#join). Когда всё будет готово, я пришлю приглашение.
 
 [Посмотреть полный roadmap →](ROADMAP.ru.md)
+
+## Давай пообщаемся 💬
+
+Буду рад увидеть, что ты делаешь, и узнать, какие ролики хочешь создавать в Asteru Motion. Выбирай тему ниже — можно писать на русском или английском.
+
+| С чего начать | О чём поговорим |
+| --- | --- |
+| [👋 Показать своё приложение](https://github.com/asterustudio/asteru-motion-community/discussions/3) | Поделись приложением, скриншотом или тем, над чем сейчас работаешь. |
+| [💡 Предложить идею](https://github.com/asterustudio/asteru-motion-community/discussions/4) | Расскажи, какой ролик тебе хотелось бы сделать. |
+| [❓ Задать вопрос](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a) | Спроси меня о приложении, бете или создании промо-ролика. |
+| [🎬 Прочитать последнее обновление](https://github.com/asterustudio/asteru-motion-community/discussions/2) | Узнай, что уже готово и над чем я работаю дальше. |
+
+[Открыть все обсуждения →](https://github.com/asterustudio/asteru-motion-community/discussions)
 
 ## Загляни на сайт
 
@@ -58,13 +73,12 @@
 ## Оставайся на связи
 
 - Поставь **звёздочку** репозиторию, если тебе нравится идея.
-- [Предложи что-нибудь](https://github.com/asterustudio/asteru-motion-community/discussions/categories/ideas) или [задай вопрос](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a).
-- [Следи за новостями](https://github.com/asterustudio/asteru-motion-community/discussions/categories/announcements) или отправь [сайт](https://asteru-motion.asterustudio.workers.dev/) знакомому разработчику.
+- Отправь [сайт](https://asteru-motion.asterustudio.workers.dev/) знакомому разработчику, которому пригодится промо-ролик.
 
 Это публичная страница проекта. Само приложение я разрабатываю в закрытом репозитории; устанавливать отсюда ничего не нужно.
 
 ---
 
-[План развития](ROADMAP.ru.md) · [Как помочь](CONTRIBUTING.md) · [Поддержка](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Почта](mailto:asterustudio@inbox.ru)
+[План развития](ROADMAP.ru.md) · [Обсуждения](https://github.com/asterustudio/asteru-motion-community/discussions) · [Как помочь](CONTRIBUTING.md) · [Поддержка](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Почта](mailto:asterustudio@inbox.ru)
 
 Данияр · **Asteru Studio**

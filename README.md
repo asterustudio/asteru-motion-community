@@ -2,7 +2,9 @@
 
 <p align="center"><strong>Your app. In motion.</strong><br>A little help showing what you’ve built.</p>
 
-<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Join the beta waitlist</strong></a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Watch a demo</a> · <a href="README.ru.md">По-русски</a></p>
+<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Join the beta waitlist</strong></a> &nbsp; <a href="SUPPORT.md"><img src="assets/support-compact.svg" alt="Support the project" width="172" height="28" align="middle"></a></p>
+
+<p align="center"><a href="#join-the-conversation-">Discussions</a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Watch a demo</a> · <a href="README.ru.md">По-русски</a></p>
 
 ## Hi, I’m Daniar 👋
 
@@ -19,6 +21,19 @@ The promo films are already here. **Now I’m getting the app ready for its firs
 You can [join the waitlist](https://asteru-motion.asterustudio.workers.dev/#join) now. I’ll send an invitation when it’s ready to try.
 
 [Explore the roadmap →](ROADMAP.md)
+
+## Join the conversation 💬
+
+I’d love to see what you’re building and hear what you’d like to make with Asteru Motion. Pick a conversation below — English and Russian are both welcome.
+
+| Come say hi | What we can talk about |
+| --- | --- |
+| [👋 Show me your app](https://github.com/asterustudio/asteru-motion-community/discussions/3) | Share your app, a screenshot, or something you’re working on. |
+| [💡 Share an idea](https://github.com/asterustudio/asteru-motion-community/discussions/4) | Tell me what kind of video you’d like to make. |
+| [❓ Ask a question](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a) | Ask me about the app, the beta, or getting a promo video. |
+| [🎬 Read the latest update](https://github.com/asterustudio/asteru-motion-community/discussions/2) | See where the project is now and what I’m working on next. |
+
+[Browse all discussions →](https://github.com/asterustudio/asteru-motion-community/discussions)
 
 ## Take a look around
 
@@ -58,13 +73,12 @@ I’m building Asteru Motion independently. If you’d like to help me keep goin
 ## Follow along
 
 - **Star this repo** if you’d like to support what I’m making.
-- [Share an idea](https://github.com/asterustudio/asteru-motion-community/discussions/categories/ideas) or [ask me a question](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a).
-- [Follow the updates](https://github.com/asterustudio/asteru-motion-community/discussions/categories/announcements), or send the [website](https://asteru-motion.asterustudio.workers.dev/) to another app maker.
+- Send the [website](https://asteru-motion.asterustudio.workers.dev/) to another app maker who could use a promo video.
 
 This is the public home for the project. I’m developing the app privately; there’s nothing to install from this repo.
 
 ---
 
-[Roadmap](ROADMAP.md) · [How to help](CONTRIBUTING.md) · [Support](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Email](mailto:asterustudio@inbox.ru)
+[Roadmap](ROADMAP.md) · [Discussions](https://github.com/asterustudio/asteru-motion-community/discussions) · [How to help](CONTRIBUTING.md) · [Support](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Email](mailto:asterustudio@inbox.ru)
 
 Made by Daniar · **Asteru Studio**
