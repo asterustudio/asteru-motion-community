@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Join the beta waitlist
+    url: https://asteru-motion.asterustudio.workers.dev/#join
+    about: Leave your email and I’ll send an invitation when the beta is ready.
+  - name: Get a free promo video or message me
+    url: https://t.me/daniarjabagin
+    about: Send me your app screenshots, or ask a question privately.
+  - name: Ask a question or share an idea
+    url: https://github.com/asterustudio/asteru-motion-community/discussions
+    about: I’d love to hear what you want to make.

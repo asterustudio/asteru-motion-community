@@ -1,0 +1,9 @@
+title: ""
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to know?
+      description: Ask me in English or Russian. Please keep personal details out of public discussions.
+    validations:
+      required: true

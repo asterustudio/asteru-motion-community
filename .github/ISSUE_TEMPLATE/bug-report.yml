@@ -1,0 +1,24 @@
+name: Something isn’t working
+description: Tell me what happened so I can take a look.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for letting me know. English and Russian are welcome. Please keep personal details out of this public report."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: What were you trying to do, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Browser and device
+      placeholder: For example, Safari on iPhone
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: A screenshot can help me understand. Please hide any private information.

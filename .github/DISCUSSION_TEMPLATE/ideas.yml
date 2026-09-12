@@ -1,0 +1,12 @@
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: "Tell me what would make Asteru Motion useful to you. English and Russian are welcome."
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to make?
+      description: A simple example helps me understand your idea.
+    validations:
+      required: true
