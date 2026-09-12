@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Твоё приложение — в движении.</strong><br>Помогу красиво показать то, что ты сделал.</p>
 
-<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Записаться на бету</strong></a> &nbsp; <a href="SUPPORT.md"><img src="assets/support-compact.ru.svg" alt="Поддержать проект" width="172" height="28" align="middle"></a></p>
+<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Записаться на бету</strong></a> &nbsp; <a href="https://buymeacoffee.com/asterustudio"><img src="assets/support-compact.ru.svg" alt="Поддержать проект" width="172" height="28" align="middle"></a></p>
 
 <p align="center"><a href="#давай-пообщаемся-">Обсуждения</a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Посмотреть пример</a> · <a href="README.md">English</a></p>
 
@@ -66,7 +66,7 @@
 
 ## Поддержать проект 💜
 
-Я делаю Asteru Motion самостоятельно. Если хочешь помочь мне продолжать работу, буду рад поддержке.
+Я делаю Asteru Motion самостоятельно. Теперь можно поддержать работу через Buy Me a Coffee, а ещё — рассказать о проекте или поделиться обратной связью. Все способы собрал по кнопке ниже.
 
 <a href="SUPPORT.md"><img src="assets/support.svg" alt="Поддержать Asteru Motion" width="310" height="56"></a>
 

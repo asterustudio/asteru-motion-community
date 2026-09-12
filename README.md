@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Your app. In motion.</strong><br>A little help showing what you’ve built.</p>
 
-<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Join the beta waitlist</strong></a> &nbsp; <a href="SUPPORT.md"><img src="assets/support-compact.svg" alt="Support the project" width="172" height="28" align="middle"></a></p>
+<p align="center"><a href="https://asteru-motion.asterustudio.workers.dev/#join"><strong>Join the beta waitlist</strong></a> &nbsp; <a href="https://buymeacoffee.com/asterustudio"><img src="assets/support-compact.svg" alt="Support the project" width="172" height="28" align="middle"></a></p>
 
 <p align="center"><a href="#join-the-conversation-">Discussions</a> · <a href="https://asteru-motion.asterustudio.workers.dev/#early-look">Watch a demo</a> · <a href="README.ru.md">По-русски</a></p>
 
@@ -66,7 +66,7 @@ You don’t need to wait for the beta to ask for one. Questions are welcome too 
 
 ## Support what I’m making 💜
 
-I’m building Asteru Motion independently. If you’d like to help me keep going, here are a few ways to support the project.
+I’m building Asteru Motion independently. You can now buy me a coffee to support the work, or help by sharing the project and sending feedback. I’ve put the details below.
 
 <a href="SUPPORT.md"><img src="assets/support.svg" alt="Support Asteru Motion" width="310" height="56"></a>
 

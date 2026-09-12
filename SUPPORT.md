@@ -2,13 +2,15 @@
 
 I’m building Asteru Motion independently. If you like what I’m making, I’d be happy to have you along for the journey.
 
-## Follow my creator page
+## Buy me a coffee
 
-I’ve made a [Buy Me a Coffee page](https://buymeacoffee.com/asterustudio) where you can follow my work.
+**You can now support my work on [Buy Me a Coffee](https://buymeacoffee.com/asterustudio).**
 
-**Financial support isn’t open yet.** I’m still setting up payouts; for now, you can follow the page. I’ll update this section when it’s ready.
+Your support helps me spend more time building Asteru Motion and cover tools and hosting. It’s completely optional — following along, sharing the project, and sending feedback help too.
 
-## A few ways to help right now
+[Support Asteru Motion on Buy Me a Coffee →](https://buymeacoffee.com/asterustudio)
+
+## Other ways to help
 
 - **Star this repository** if you like the idea.
 - Share the [website](https://asteru-motion.asterustudio.workers.dev/) with another app maker.
@@ -21,6 +23,6 @@ Thank you for being here early. A kind word, a useful suggestion, or sharing the
 
 ---
 
-**По-русски:** я создал [страницу Buy Me a Coffee](https://buymeacoffee.com/asterustudio), пока там можно подписаться. Приём денежной поддержки ещё не включён — сначала завершу настройку выплат. Уже сейчас можно помочь звёздочкой, рассказать о проекте или предложить идею.
+**По-русски:** теперь можно [поддержать меня через Buy Me a Coffee](https://buymeacoffee.com/asterustudio). Это помогает мне уделять больше времени Asteru Motion и оплачивать инструменты и хостинг. Поддержка добровольная — звёздочка, рассказ о проекте и полезная обратная связь тоже очень помогают 💜
 
 [Back to Asteru Motion](README.md) · [Roadmap](ROADMAP.md)
