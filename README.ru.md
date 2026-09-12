@@ -14,9 +14,11 @@
 
 ## Следующий шаг — бета-тест 🎬
 
-Сейчас я готовлю первую бету. **Она ещё не открыта**, но уже можно [записаться в список ожидания](https://asteru-motion.asterustudio.workers.dev/#join). Когда всё будет готово, я пришлю приглашение.
+Готовые промо-ролики уже можно посмотреть. **Сейчас я готовлю приложение к первой бете** — с музыкой, широким и вертикальным форматами со старта.
 
-Сначала хочу дать попробовать приложение небольшой группе людей, помочь с первыми роликами и исправить то, что окажется неудобным. Затем буду добавлять стили и возможности по вашим отзывам. [Подробнее о плане →](ROADMAP.md)
+Уже можно [записаться в список ожидания](https://asteru-motion.asterustudio.workers.dev/#join). Когда всё будет готово, я пришлю приглашение.
+
+[Посмотреть полный roadmap →](ROADMAP.ru.md)
 
 ## Загляни на сайт
 
@@ -47,7 +49,13 @@
 
 Ждать открытия беты для этого не нужно. Если есть вопросы — тоже пиши 🙂
 
-## Как поддержать 💜
+## Поддержать проект 💜
+
+Я делаю Asteru Motion самостоятельно. Если хочешь помочь мне продолжать работу, буду рад поддержке.
+
+<a href="SUPPORT.md"><img src="assets/support.svg" alt="Поддержать Asteru Motion" width="310" height="56"></a>
+
+## Оставайся на связи
 
 - Поставь **звёздочку** репозиторию, если тебе нравится идея.
 - [Предложи что-нибудь](https://github.com/asterustudio/asteru-motion-community/discussions/categories/ideas) или [задай вопрос](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a).
@@ -57,6 +65,6 @@
 
 ---
 
-[План развития](ROADMAP.md) · [Как помочь](CONTRIBUTING.md) · [Поддержка](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Почта](mailto:asterustudio@inbox.ru)
+[План развития](ROADMAP.ru.md) · [Как помочь](CONTRIBUTING.md) · [Поддержка](SUPPORT.md) · [Telegram](https://t.me/daniarjabagin) · [Почта](mailto:asterustudio@inbox.ru)
 
 Данияр · **Asteru Studio**

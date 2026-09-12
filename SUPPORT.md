@@ -1,12 +1,26 @@
-# A little support goes a long way 💜
+# Support Asteru Motion 💜
 
-I’m building Asteru Motion as an independent project. If you like the idea, here are a few ways to help:
+I’m building Asteru Motion independently. If you like what I’m making, I’d be happy to have you along for the journey.
 
-- Put a **star** on this repository.
+## Follow my creator page
+
+I’ve made a [Buy Me a Coffee page](https://buymeacoffee.com/asterustudio) where you can follow my work.
+
+**Financial support isn’t open yet.** I’m still setting up payouts; for now, you can follow the page. I’ll update this section when it’s ready.
+
+## A few ways to help right now
+
+- **Star this repository** if you like the idea.
 - Share the [website](https://asteru-motion.asterustudio.workers.dev/) with another app maker.
-- [Join the waitlist](https://asteru-motion.asterustudio.workers.dev/#join) and try the beta when it’s ready.
-- Tell me what you’d like to make, or what you think could be better.
+- [Join the beta waitlist](https://asteru-motion.asterustudio.workers.dev/#join) and tell me how the first version feels when it’s ready.
+- [Show me your app](https://github.com/asterustudio/asteru-motion-community/discussions/categories/show-and-tell) or [suggest an idea](https://github.com/asterustudio/asteru-motion-community/discussions/categories/ideas).
 
-A star is support; the waitlist form is how I know to send you a beta invitation.
+Thank you for being here early. A kind word, a useful suggestion, or sharing the project all help 💜
 
-Have a question? [Write to me on Telegram](https://t.me/daniarjabagin) or [send an email](mailto:asterustudio@inbox.ru). I’ll get back to you when I can.
+[Message me on Telegram](https://t.me/daniarjabagin) · [Send an email](mailto:asterustudio@inbox.ru)
+
+---
+
+**По-русски:** я создал [страницу Buy Me a Coffee](https://buymeacoffee.com/asterustudio), пока там можно подписаться. Приём денежной поддержки ещё не включён — сначала завершу настройку выплат. Уже сейчас можно помочь звёздочкой, рассказать о проекте или предложить идею.
+
+[Back to Asteru Motion](README.md) · [Roadmap](ROADMAP.md)

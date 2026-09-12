@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="510" viewBox="0 0 1320 510" role="img" aria-labelledby="title desc">
+  <title id="title">The videos are here. Next, the beta.</title>
+  <desc id="desc">Asteru Motion roadmap: promo films ready to watch, the beta app in development, more ways to create coming next.</desc>
+  <rect width="1320" height="510" rx="24" fill="#151718"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <circle cx="65" cy="57" r="5" fill="#b0a9ff"/>
+    <text x="82" y="64" fill="#c4c6c1" font-size="19" font-weight="600" letter-spacing="2">ASTERU MOTION · THE ROAD AHEAD</text>
+    <text x="60" y="162" fill="#eef0e8" font-size="67" font-weight="700" letter-spacing="-3">The videos are here.</text>
+    <text x="60" y="239" fill="#b0a9ff" font-size="67" font-weight="700" letter-spacing="-3">Next, the beta.</text>
+    <path d="M60 320H1260" stroke="#3c3f40" stroke-width="2"/>
+    <path d="M60 320H482" stroke="#b0a9ff" stroke-width="2"/>
+    <circle cx="67" cy="320" r="7" fill="#eef0e8"/>
+    <circle cx="482" cy="320" r="14" fill="#151718" stroke="#b0a9ff" stroke-width="2"/>
+    <circle cx="482" cy="320" r="6" fill="#b0a9ff"/>
+    <circle cx="902" cy="320" r="7" fill="#151718" stroke="#747977" stroke-width="2"/>
+    <text x="60" y="371" fill="#c4c6c1" font-size="18" font-weight="600" letter-spacing="1.6">01 / READY TO WATCH</text>
+    <text x="60" y="418" fill="#eef0e8" font-size="33" font-weight="600" letter-spacing="-1">Real promo films</text>
+    <text x="60" y="457" fill="#a9aeaa" font-size="21">Wide, portrait &amp; music.</text>
+    <text x="475" y="371" fill="#b0a9ff" font-size="18" font-weight="600" letter-spacing="1.6">02 / IN DEVELOPMENT</text>
+    <text x="475" y="418" fill="#eef0e8" font-size="33" font-weight="600" letter-spacing="-1">The first beta</text>
+    <text x="475" y="457" fill="#a9aeaa" font-size="21">Your app. Your next film.</text>
+    <text x="895" y="371" fill="#a9aeaa" font-size="18" font-weight="600" letter-spacing="1.6">03 / WHAT COMES NEXT</text>
+    <text x="895" y="418" fill="#eef0e8" font-size="33" font-weight="600" letter-spacing="-1">More ways to create</text>
+    <text x="895" y="457" fill="#a9aeaa" font-size="21">Shaped by your feedback.</text>
+  </g>
+</svg>

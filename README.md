@@ -14,9 +14,11 @@ Here I share progress, plans, and examples. You can ask questions and help me de
 
 ## Next up: the beta 🎬
 
-I’m getting the first beta ready. **It isn’t open yet**, but you can [join the waitlist](https://asteru-motion.asterustudio.workers.dev/#join) now. I’ll send an invitation when it’s ready to try.
+The promo films are already here. **Now I’m getting the app ready for its first beta**, with music and both wide and portrait formats included from the start.
 
-[See what I’m working towards →](ROADMAP.md)
+You can [join the waitlist](https://asteru-motion.asterustudio.workers.dev/#join) now. I’ll send an invitation when it’s ready to try.
+
+[Explore the roadmap →](ROADMAP.md)
 
 ## Take a look around
 
@@ -47,7 +49,13 @@ I’m making free promo videos for **10 app makers**. The first one is delivered
 
 You don’t need to wait for the beta to ask for one. Questions are welcome too 🙂
 
-## Follow along 💜
+## Support what I’m making 💜
+
+I’m building Asteru Motion independently. If you’d like to help me keep going, here are a few ways to support the project.
+
+<a href="SUPPORT.md"><img src="assets/support.svg" alt="Support Asteru Motion" width="310" height="56"></a>
+
+## Follow along
 
 - **Star this repo** if you’d like to support what I’m making.
 - [Share an idea](https://github.com/asterustudio/asteru-motion-community/discussions/categories/ideas) or [ask me a question](https://github.com/asterustudio/asteru-motion-community/discussions/categories/q-a).
