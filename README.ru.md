@@ -52,9 +52,9 @@
 
 ## Как это выглядит
 
-<a href="https://asteru-motion.asterustudio.workers.dev/#early-look"><img src="assets/gitly-preview.jpg" alt="Демо Gitly: промо-ролик приложения для GitHub" width="100%"></a>
+<a href="https://asteru-motion.asterustudio.workers.dev/#early-look"><img src="assets/cheking-v5-preview.jpg" alt="CheKing: первый бесплатный промо-ролик от Asteru Motion" width="100%"></a>
 
-Этот **демо-ролик Gitly** я сделал, чтобы показать, над какими видео работаю. [Посмотреть широкую или вертикальную версию](https://asteru-motion.asterustudio.workers.dev/#early-look).
+Это **CheKing** — первое приложение, для которого я сделал бесплатный промо-ролик. В обновлённой версии подробнее показал весь процесс: сканирование фото, проверку цены и результат. [Посмотреть широкую или вертикальную версию](https://asteru-motion.asterustudio.workers.dev/#early-look).
 
 ## Хочешь бесплатный ролик для своего приложения?
 

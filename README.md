@@ -52,9 +52,9 @@ I’ve made a small website with demos and a beta waitlist. Tap either screensho
 
 ## See it in motion
 
-<a href="https://asteru-motion.asterustudio.workers.dev/#early-look"><img src="assets/gitly-preview.jpg" alt="Gitly demo: a GitHub app shown in an Asteru Motion promo video" width="100%"></a>
+<a href="https://asteru-motion.asterustudio.workers.dev/#early-look"><img src="assets/cheking-v5-preview.jpg" alt="CheKing: my first free app promo, made with Asteru Motion" width="100%"></a>
 
-I made this **Gitly demo** to show the kind of launch videos I’m working on. [Watch it in wide or portrait format](https://asteru-motion.asterustudio.workers.dev/#early-look).
+This is **CheKing**, the first app I made a free promo for. Here’s the updated film, with a closer look at scanning a photo, checking the price, and seeing the verdict. [Watch it in wide or portrait format](https://asteru-motion.asterustudio.workers.dev/#early-look).
 
 ## Want a free video for your app?
 
